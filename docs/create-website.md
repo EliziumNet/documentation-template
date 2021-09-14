@@ -1,7 +1,7 @@
 # Create a Website Using bootstrap-template
 
 [bootstrap-template](https://github.com/thecdil/bootstrap-template) is a basic template repository to create a [Bootstrap](https://getbootstrap.com/) site using Jekyll on GitHub Pages (or where every you want to host it). 
-The layout is based on the [Bootstrap starter template example](https://getbootstrap.com/docs/4.5/examples/) with a navbar, search box (using lunr.js), and sticky footer.
+The layout is based on the [Bootstrap starter template example](https://getbootstrap.com/docs/5.1/examples/) with a navbar, search box (using lunr.js), and sticky footer.
 It is intended as a quick starting point for creating new web projects.
 
 The basic steps for using bootstrap-template are: 
@@ -65,7 +65,7 @@ These files provide the basic template and can be easily tweaked using Bootstrap
 
 Project assets from external sources are included in assets/lib folder:
 
-- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) 4.5.3
+- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 4.5.3
 - [JQuery](https://jquery.com/) 3.5.1
 - [Bootstrap Icons](https://icons.getbootstrap.com/) 1.1.0
 - [lunr.js](https://lunrjs.com/) 2.3.9
