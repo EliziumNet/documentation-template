@@ -66,7 +66,7 @@ These files provide the basic template and can be easily tweaked using Bootstrap
 Project assets from external sources are included in assets/lib folder:
 
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 4.5.3
-- [JQuery](https://jquery.com/) 3.5.1
+- [JQuery](https://jquery.com/) 3.6.0
 - [Bootstrap Icons](https://icons.getbootstrap.com/) 1.1.0
 - [lunr.js](https://lunrjs.com/) 2.3.9
 

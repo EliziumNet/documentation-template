@@ -31,6 +31,6 @@ See [docs/create-website.md](https://github.com/thecdil/bootstrap-template/blob/
 Included in assets/lib folder:
 
 - [Bootstrap](https://getbootstrap.com/docs/5.1/) 5.1
-- [JQuery](https://jquery.com/) 3.5.1
+- [JQuery](https://jquery.com/) 3.6.0
 - [Bootstrap Icons](https://icons.getbootstrap.com/) 1.5.0
 - [lunr.js](https://lunrjs.com/) 2.3.9
