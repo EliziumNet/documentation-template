@@ -1,18 +1,20 @@
 #######
 #
-# bootstrap-template
-# basic bootstrap template for Jekyll with GitHub Pages
-# https://github.com/thecdil/bootstrap-template
+# documentation-template
+# bootstrap template for Jekyll with GitHub Pages based upon thecdil/bootstrap-template
+# This template will contain any common bootstrap components, page layouts and any other
+# assets intended for use accross multiple elizium documentation projects.
+# https://github.com/EliziumNet/documentation-template
 #
 #######
 
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: elizium-documentation-template
+description: "Bootstrap documentation template intended for documentation of Elizium projects"
+year: 2021
+author: plastikfan
 # add search box to navbar, true/false
 search: true
 
@@ -23,13 +25,13 @@ search: true
 #
 # use url for the domain, e.g. https://thecdil.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: https://EliziumNet.github.io
 # use baseurl to add subsection of the domain, e.g. /timelinejs-template
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:
+baseurl: /documentation-template
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/EliziumNet/documentation-template
 
 ##########
 # GOOGLE ANALYTICS [optional!]
